@@ -206,20 +206,90 @@ btn{
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 26px; /* 162.5% */
+    line-height: 26px; 
 }
-section button{
+.section1 button{
     width: 175px;
     height: 53px;
     border-radius: 4px;
     background: #F90;
     border: none; 
     margin-left: 621px;
+    margin-bottom: 90px;
     color: #FFF;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+/*feature party ends*/
+.section2{
+    display: flex;
+    margin-top: 146px;
+    margin-left: 145px;
+}
+.section2 p{
+    margin-bottom: 0;
+    margin-right: 104px;
+    width: 486px;
+    color: #544837;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; 
+}
+.section2 h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #2F281E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}/*section2 ends*/
+.section3{
+    display: flex;
+    margin-left: 144px;
+    margin-top: 118px;
+}
+.product-managers, image{
+    margin-right: 102px;
+}
+.section3 .p1, p{
+    width: 486px;
+    color: #544837;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
 
+}
+.section3 .p{
+    width: 385px;
+}
+.section3 h2{
+    margin-top: 0px;
+    color: #2F281E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.section3 .p2{
+    margin-bottom: 3px;
+}
+.section3 .tick-icon{
+    width: 35px;
+    height: 35px;
+    margin-right: 30px;
+}
+.section3 .p3{
+    height: 52px;
+    width: 365px;
 }
